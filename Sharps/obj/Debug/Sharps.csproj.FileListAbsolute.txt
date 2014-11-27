@@ -1,0 +1,11 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Sharps\obj\Debug\Sharps.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Sharps\bin\Debug\Sharps.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Sharps\bin\Debug\Sharps.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Sharps\obj\Debug\Sharps.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Sharps\obj\Debug\Sharps.pdb
+E:\VSProjects\Sharps\Sharps\obj\Debug\Sharps.exe
+E:\VSProjects\Sharps\Sharps\obj\Debug\Sharps.pdb
+E:\VSProjects\Sharps\Sharps\bin\Debug\Sharps.exe
+E:\VSProjects\Sharps\Sharps\bin\Debug\Sharps.pdb
+E:\VSProjects\Sharps\Sharps\obj\Debug\Sharps.csprojResolveAssemblyReference.cache
+E:\VSProjects\Sharps\Sharps\bin\Debug\Sharps.exe.config
